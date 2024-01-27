@@ -1,0 +1,1610 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 100,
+        "count": 100,
+        "total": 288346
+    },
+    "data": [
+        {
+            "name": "CVS Health Corp",
+            "symbol": "CVS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "T-Mobile US Inc",
+            "symbol": "TMUS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Mondelez International Inc - Class A",
+            "symbol": "MDLZ",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "United Parcel Service Inc - Class B",
+            "symbol": "UPS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Deutsche Telekom AG",
+            "symbol": "DTEGY",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "OTC Markets",
+                "acronym": "",
+                "mic": "OTCM",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.otcmarkets.com"
+            }
+        },
+        {
+            "name": "Sony Corporation.",
+            "symbol": "SNE",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Altria Group Inc",
+            "symbol": "MO",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Fiserv Inc",
+            "symbol": "FISV",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Enbridge Inc",
+            "symbol": "ENB",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Blackrock Inc",
+            "symbol": "BLK",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Deutsche Telekom AG",
+            "symbol": "DTEGF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "OTC Markets",
+                "acronym": "",
+                "mic": "OTCM",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.otcmarkets.com"
+            }
+        },
+        {
+            "name": "TJX Companies Inc",
+            "symbol": "TJX",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "CME Group Inc - Class A",
+            "symbol": "CME",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Unilever NV",
+            "symbol": "UN",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Stryker Corp",
+            "symbol": "SYK",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "U.S. Bancorp.",
+            "symbol": "USB",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Intuit Inc",
+            "symbol": "INTU",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Goldman Sachs Group Inc",
+            "symbol": "GS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Cigna Group (The)",
+            "symbol": "CI",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Morgan Stanley",
+            "symbol": "MS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Booking Holdings Inc",
+            "symbol": "BKNG",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Duke Energy Corp",
+            "symbol": "DUK",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "S&P Global Inc",
+            "symbol": "SPGI",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Automatic Data Processing Inc",
+            "symbol": "ADP",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Caterpillar Inc",
+            "symbol": "CAT",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Dominion Energy Inc",
+            "symbol": "D",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Dominion Energy 7.25 06-01-22",
+            "symbol": "DCUE",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Estee Lauder Cos. Inc - Class A",
+            "symbol": "EL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Chubb Ltd",
+            "symbol": "CB",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Anthem Inc",
+            "symbol": "ANTM",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Southern Company",
+            "symbol": "SO",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Southern Company Unit Series A 2019",
+            "symbol": "SOLN",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Blackstone Inc",
+            "symbol": "BX",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Becton Dickinson & Company",
+            "symbol": "BDX",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Zoetis Inc - Class A",
+            "symbol": "ZTS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Truist Financial Corporation",
+            "symbol": "TFC",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "ServiceNow Inc",
+            "symbol": "NOW",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Prologis Inc",
+            "symbol": "PLD",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "BHP Group Ltd",
+            "symbol": "BHP",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Crown Castle Inc",
+            "symbol": "CCI",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Unilever plc",
+            "symbol": "UL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Intuitive Surgical Inc",
+            "symbol": "ISRG",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "NASDAQ Stock Exchange",
+                "acronym": "NASDAQ",
+                "mic": "XNAS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nasdaq.com"
+            }
+        },
+        {
+            "name": "Bank Of Nova Scotia",
+            "symbol": "BNS",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Cnooc Ltd",
+            "symbol": "CEO",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Allergan Inc",
+            "symbol": "AGN",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Brookfield Asset Management Ltd - Class A",
+            "symbol": "BAM",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Colgate-Palmolive Company",
+            "symbol": "CL",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Mitsubishi UFJ Financial Group Inc",
+            "symbol": "MUFG",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Canadian National Railway Company",
+            "symbol": "CNI",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "Rio Tinto plc",
+            "symbol": "RIO",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "New York Stock Exchange",
+                "acronym": "NYSE",
+                "mic": "XNYS",
+                "country": "USA",
+                "country_code": "US",
+                "city": "New York",
+                "website": "www.nyse.com"
+            }
+        },
+        {
+            "name": "AHLI UNITED BANK BSC",
+            "symbol": "AUB.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "NATIONAL BANK OF BAHRAIN",
+            "symbol": "NBB.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BBK BSC",
+            "symbol": "BBK.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN TELECOMMUNICATIONS",
+            "symbol": "BATELCO.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "ALUMINIUM BAHRAIN BSC",
+            "symbol": "ALBH.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "ARAB BANKING CORPORATION",
+            "symbol": "ABC.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "GFH FINANCIAL GROUP BSC",
+            "symbol": "GFH.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "AL SALAM BANK",
+            "symbol": "SALAM.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN COMMERCIAL FACILITIES",
+            "symbol": "BCFC.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "AL BARAKA BANKING GROUP",
+            "symbol": "BARKA.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "APM TERMINALS BAHRAIN BSC",
+            "symbol": "APMTB.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN ISLAMIC BANK",
+            "symbol": "BISB.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN MARITIME AND MERCANTILE INTERNATIONAL",
+            "symbol": "BMMI.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN DUTY FREE SHOP COMPLEX CO",
+            "symbol": "DUTYF.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "GULF HOTELS GROUP",
+            "symbol": "GHG.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "SEEF PROPERTIES",
+            "symbol": "SEEF.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN CINEMA",
+            "symbol": "CINECO.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "ITHMAAR HOLDING BSC",
+            "symbol": "ITHMR.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "KHALEEJI COMMERCIAL BANK BSC",
+            "symbol": "KHCB.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN KUWAIT INSURANCE",
+            "symbol": "BKIC.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "ZAIN BAHRAIN BSC",
+            "symbol": "ZAINBH.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN NATIONAL HOLDING CO",
+            "symbol": "BNH.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "SOLIDARITY BAHRAIN BSC",
+            "symbol": "SOLID.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "ESTERAD INVESTMENT",
+            "symbol": "ESTERAD.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "ARAB INSURANCE GROUP",
+            "symbol": "ARIG.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "NASS CORPRATION BSC",
+            "symbol": "NASS.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "NATIONAL HOTELS",
+            "symbol": "NHOTEL.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "BAHRAIN CAR PARK",
+            "symbol": "CPARK.XBAH",
+            "has_intraday": false,
+            "has_eod": false,
+            "country": null,
+            "stock_exchange": {
+                "name": "Bahrein Bourse",
+                "acronym": "BSE",
+                "mic": "XBAH",
+                "country": "Bahrain",
+                "country_code": "BH",
+                "city": "Manama",
+                "website": "www.bahrainbourse.com.bh"
+            }
+        },
+        {
+            "name": "MICROSOFT DRN",
+            "symbol": "MSFT34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "APPLE DRN",
+            "symbol": "AAPL34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "ALPHABET DRN C",
+            "symbol": "GOGL35.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "ALIBABAGR DRN",
+            "symbol": "BABA34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "FACEBOOK DRN",
+            "symbol": "FBOK34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "AMAZON DRN",
+            "symbol": "AMZO34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "VISA INC DRN",
+            "symbol": "VISA34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "ALPHABET DRN A",
+            "symbol": "GOGL34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "JOHNSON DRN",
+            "symbol": "JNJB34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "WAL MART DRN",
+            "symbol": "WALM34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "MASTERCARD DRN",
+            "symbol": "MSCD34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "PG DRN",
+            "symbol": "PGCO34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "TAIWANSMFAC DRN",
+            "symbol": "TSMC34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "ATT INC DRN",
+            "symbol": "ATTB34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "UNITEDHEALTHDRN",
+            "symbol": "UNHH34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "HOME DEPOT DRN",
+            "symbol": "HOME34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "INTEL DRN",
+            "symbol": "ITLC34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "COCA COLA DRN",
+            "symbol": "COCA34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "VERIZON DRN",
+            "symbol": "VERZ34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "EXXON MOBIL DRN",
+            "symbol": "EXXO34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "WALT DISNEY DRN",
+            "symbol": "DISB34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        },
+        {
+            "name": "MERCK DRN",
+            "symbol": "MRCK34.BVMF",
+            "has_intraday": false,
+            "has_eod": true,
+            "country": null,
+            "stock_exchange": {
+                "name": "B3 - Brasil Bolsa Balcão S.A",
+                "acronym": "Bovespa",
+                "mic": "BVMF",
+                "country": "Brazil",
+                "country_code": "BR",
+                "city": "Sao Paulo",
+                "website": "www.bmfbovespa.com.br"
+            }
+        }
+    ]
+}
