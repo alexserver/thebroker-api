@@ -1,4 +1,4 @@
-import { getTickerEod } from "../jsondb/eod.js";
+import { getEodHistory, getTickerEod } from "../jsondb/eod.js";
 
 export const eodRoutes = async (app, fs) => {
   app.get("/tickers/:symbol/eod/:when", async (req, res) => {
@@ -14,6 +14,12 @@ export const eodRoutes = async (app, fs) => {
 
   app.get("/eod", async (req, res) => {
     const { symbols, date_from, date_to } = req.query;
-    res.send({});
+    const data = await getEodHistory({ symbols, date_from, date_to });
+    if (data) {
+      res.send(data);
+    } else {
+      res.send({});
+    }
+    return;
   });
 };

@@ -20,7 +20,6 @@ export const tickerRoutes = (app, fs) => {
     const { symbol } = req.params;
     try {
       const data = await getTicker({ symbol });
-      console.log("weputa valid", data);
       res.send(data);
     } catch (err) {
       throw new Error(err);
