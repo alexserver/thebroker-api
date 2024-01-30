@@ -3,13 +3,14 @@
 import { readFile } from "node:fs/promises";
 
 const API_REQUEST_LIMIT = process.env.API_REQUEST_LIMIT;
+const FILENAME = "../data/tickers.json";
 
 export const getTickers = async ({
   search,
   limit = API_REQUEST_LIMIT,
   offset = 0,
 }) => {
-  const path = new URL("../data/tickers.json", import.meta.url);
+  const path = new URL(FILENAME, import.meta.url);
   try {
     const file = await readFile(path, { encoding: "utf8" });
     const db = JSON.parse(file);
@@ -42,7 +43,23 @@ export const getTickers = async ({
     };
 
     return { pagination, data };
-  } catch (ex) {
-    throw new Error(ex);
+  } catch (err) {
+    throw new Error(err);
+  }
+};
+
+export const getTicker = async ({ symbol = null }) => {
+  if (!symbol) return null;
+  const path = new URL(FILENAME, import.meta.url);
+  try {
+    const file = await readFile(path, { encoding: "utf8" });
+    const db = JSON.parse(file);
+    const ticker = db.data.find(
+      (item) => item?.symbol?.toLowerCase() === symbol.toLowerCase()
+    );
+    if (ticker) return ticker;
+    return null;
+  } catch (err) {
+    throw new Error(err);
   }
 };
