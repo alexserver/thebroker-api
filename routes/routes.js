@@ -1,4 +1,5 @@
 import { tickerRoutes } from "./tickers.js";
+import { eodRoutes } from "./eod.js";
 
 const appRouter = (app, fs) => {
   app.get("/", (req, res) => {
@@ -6,6 +7,8 @@ const appRouter = (app, fs) => {
   });
 
   tickerRoutes(app, fs);
+
+  eodRoutes(app, fs);
 };
 
 export default appRouter;
