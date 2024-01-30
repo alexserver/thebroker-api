@@ -10,7 +10,11 @@ export const tickerRoutes = (app, fs) => {
     const { search, limit, offset } = req.query;
     try {
       const data = await getTickers({ search, limit, offset });
-      res.send(data);
+      if (data) {
+        res.send(data);
+      } else {
+        res.send({});
+      }
     } catch (err) {
       throw new Error(err);
     }
@@ -20,7 +24,11 @@ export const tickerRoutes = (app, fs) => {
     const { symbol } = req.params;
     try {
       const data = await getTicker({ symbol });
-      res.send(data);
+      if (data) {
+        res.send(data);
+      } else {
+        res.send({});
+      }
     } catch (err) {
       throw new Error(err);
     }
