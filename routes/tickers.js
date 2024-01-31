@@ -1,6 +1,6 @@
 import { getTicker, getTickers } from "../jsondb/tickers.js";
 
-export const tickerRoutes = (app, fs) => {
+export const tickerRoutes = (app) => {
   // READ
   // Params:
   // search: string; a string to search and compare against symbol, name, stock exchange name, and stock exchange country

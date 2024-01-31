@@ -1,14 +1,14 @@
 import { tickerRoutes } from "./tickers.js";
 import { eodRoutes } from "./eod.js";
 
-const appRouter = (app, fs) => {
+const appRouter = (app) => {
   app.get("/", (req, res) => {
     res.send("welcome to the development api-server");
   });
 
-  tickerRoutes(app, fs);
+  tickerRoutes(app);
 
-  eodRoutes(app, fs);
+  eodRoutes(app);
 };
 
 export default appRouter;

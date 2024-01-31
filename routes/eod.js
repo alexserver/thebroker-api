@@ -1,6 +1,6 @@
 import { getEodHistory, getTickerEod } from "../jsondb/eod.js";
 
-export const eodRoutes = async (app, fs) => {
+export const eodRoutes = async (app) => {
   app.get("/tickers/:symbol/eod/:when", async (req, res) => {
     const { symbol, when } = req.params;
     const data = await getTickerEod({ symbol, when });
